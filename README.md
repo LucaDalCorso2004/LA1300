@@ -43,13 +43,13 @@ namespace Timer
 # Inhalt 3
 [![description](http://img.youtube.com/vi/MtC5P71g8kQ/0.jpg)](https://www.youtube.com/watch?v=mmAr7VVDlFE)
 
-# Veriflikation +  Verbesserungen
-Ziel 1 ereicht der Timer wird im Inhalt dargestellt und wird im Inhalt drei als Video gezeigt was es macht.
-Ziel 2 ereicht ich konnte im Inhalt eins mit einem Text das Problem schieldern, wieso der Timer ins Hauptprogramm nicht rein kam.
+# Verifikation, Reflektion +  Verbesserungen
+*Ziel 1 ereicht der Timer wird im Inhalt zewei dargestellt und wird im Inhalt drei als Video gezeigt was es macht.
+*Ziel 2 ereicht ich konnte im Inhalt eins mit einem Text das Problem schieldern, wieso der Timer ins Hauptprogramm nicht rein kam.
 
-1 Ich habe mich in der Gruppe mit einem Gruppenmitglied ein lautes Wort gefecht.
- 2 ich habe  nicht versucht,ob der Timer mit eigaben funkzioniert.
+*1 Ich habe mich in der Gruppe mit einem Gruppenmitglied ein lautes Wort gefecht.
+*2 ich habe  wichtig Sachen im Hauptcode übersehen.
  
- 1 Ich überlege , wieso ich wüten bin und frage meinem Mitglied, ob er es mir erklären kann auf Papier oder mit dem Programm selber.
- 2 Ich schau beim nächsten mal was alles vorhanden ist, wo der Timer hingehört und versuch es mit eigen Beispiele
+*1 Ich überlege , wieso ich wüten bin und frage meinem Mitglied, ob er es mir erklären kann auf Papier oder mit dem Programm selber.
+*2  Beim nächsten Programme mach ich eine light Version um so besser meine Aufgabenpaket zu bearbeiten.
 
