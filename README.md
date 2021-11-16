@@ -1,3 +1,5 @@
 # LA1300
 
-Mein PF
+# Mein Portfolio
+
+## Aufgabenstellu
